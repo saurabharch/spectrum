@@ -5,7 +5,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "aws-sdk": "^2.454.0",
-    "bull": "3.3.10",
+    "bull": "3.16.0",
     "datadog-metrics": "^0.8.1",
     "debug": "^4.1.1",
     "draft-js": "^0.10.5",
