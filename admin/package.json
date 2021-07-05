@@ -15,7 +15,7 @@
     "@vx/event": "^0.0.127",
     "@vx/gradient": "^0.0.129",
     "@vx/grid": "^0.0.131",
-    "@vx/scale": "^0.0.127",
+    "@vx/scale": "^0.0.161",
     "@vx/shape": "^0.0.131",
     "@vx/tooltip": "^0.0.134",
     "apollo-cache-inmemory": "^1.1.5",
