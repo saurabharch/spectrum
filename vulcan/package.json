@@ -8,7 +8,7 @@
     "bull": "^3.9.1",
     "datadog-metrics": "^0.8.1",
     "debug": "^4.1.1",
-    "draft-js": "^0.10.3",
+    "draft-js": "^0.11.7",
     "emoji-regex": "^6.1.1",
     "faker": "^4.1.0",
     "ioredis": "3.2.2",
